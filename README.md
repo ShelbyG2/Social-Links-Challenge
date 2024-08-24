@@ -56,5 +56,5 @@ I am going to continue on making more impressive web developments.
 
 ## Author
 
-- Frontend Mentor - [@ShelbyG2](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ShelbyG2](https://www.frontendmentor.io/profile/ShelbyG2)
 - Twitter - [@PickyBlindAss](https://www.twitter.com/@PickyBlindAss)
